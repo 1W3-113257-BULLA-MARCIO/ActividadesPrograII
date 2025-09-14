@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "85yKdVWH3dZorMlngxB1u+8+4jUEHpp5s0U7R9UfWg0/RaGDw3Q7onj9xYc9AH2oTDswjFEmNq2FO/oI7Q9Biw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaston\\Desktop\\PrograII2025\\ActividadEntregable1\\ActividadEntregable1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaston\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gaston\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gaston\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gaston\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Gaston\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
