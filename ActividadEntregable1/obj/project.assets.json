@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaston\\Desktop\\PrograII2025\\ActividadEntregable1\\ActividadEntregable1.csproj",
+      "projectUniqueName": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\ActividadEntregable1\\ActividadEntregable1.csproj",
       "projectName": "ActividadEntregable1",
-      "projectPath": "C:\\Users\\Gaston\\Desktop\\PrograII2025\\ActividadEntregable1\\ActividadEntregable1.csproj",
+      "projectPath": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\ActividadEntregable1\\ActividadEntregable1.csproj",
       "packagesPath": "C:\\Users\\Gaston\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaston\\Desktop\\PrograII2025\\ActividadEntregable1\\obj\\",
+      "outputPath": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\ActividadEntregable1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gaston\\AppData\\Roaming\\NuGet\\NuGet.Config",
