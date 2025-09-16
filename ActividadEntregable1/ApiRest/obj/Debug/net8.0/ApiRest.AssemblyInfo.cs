@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ActividadEntregable1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ApiRest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaad051d88e529d9afbdf20f93daf45eed7a8909")]
-[assembly: System.Reflection.AssemblyProductAttribute("ActividadEntregable1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ActividadEntregable1")]
+[assembly: System.Reflection.AssemblyProductAttribute("ApiRest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ApiRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
