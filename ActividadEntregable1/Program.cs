@@ -1,39 +1,35 @@
-﻿using ActividadEntregable1.Domain;
-using ActividadEntregable1.Services;
+using Microsoft.EntityFrameworkCore;
+using RepositoryEf.Data.Models;
+using RepositoryEf.Data.Repositories;
 
-ArticuloManager manager = new ArticuloManager();
+var builder = WebApplication.CreateBuilder(args);
 
-//Create new product:
-var oArticulo = new Articulo()
+// Add services to the container.
+builder.Services.AddDbContext<FactDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString
+("DefaultConnection")));
+
+builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();
+
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
 {
-    Nombre = "PRODUCTO DE PRUEBA",
-    PrecioUnitario = 4000
-    
-};
-
-if (manager.SaveProduct(oArticulo))
-    Console.WriteLine("PRODUCTO CREADO EXISTOSAMENTE!");
-
-//List all product of store:
-List<Articulo> lst = manager.GetProducts();
-if (lst.Count == 0)
-{
-    Console.WriteLine("Sin productos en la base de datos");
-
-}
-else
-{
-    foreach (var oProducto in lst)
-    {
-        Console.WriteLine(oProducto);
-    }
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
-//Delete product cod = 1:
-if (manager.DeleteProduct(1))
-    Console.WriteLine("PRODUCTO ACTUALIZADO CON DATOS DE BAJA!");
+app.UseHttpsRedirection();
 
-FacturaManager facturaManager = new FacturaManager();
-var bugdets = facturaManager.GetBudgets();
-var budget01 = facturaManager.GetBudgetsById(1);
+app.UseAuthorization();
 
+app.MapControllers();
+
+app.Run();

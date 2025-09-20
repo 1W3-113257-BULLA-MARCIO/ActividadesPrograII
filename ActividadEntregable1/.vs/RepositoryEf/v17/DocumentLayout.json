@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|c:\\users\\gaston\\desktop\\actividades\\actividadesprograii\\repositoryef\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\data\\repositories\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:data\\repositories\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:data\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\data\\models\\factdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C763066-47E1-41BB-8A3E-96C578E83743}|RepositoryEf.csproj|solutionrelative:data\\models\\factdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:06:01.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T03:04:18.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:56:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Repositories\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Repositories\\FacturaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FacturaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:36:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Repositories\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Repositories\\IFacturaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:34:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Models\\FactDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\FactDbContext.cs",
+              "ToolTip": "C:\\Users\\Gaston\\Desktop\\actividades\\ActividadesPrograII\\RepositoryEf\\Data\\Models\\FactDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\FactDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:27:03.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

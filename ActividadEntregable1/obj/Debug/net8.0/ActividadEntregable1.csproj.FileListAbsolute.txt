@@ -1,7 +1,0 @@
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.csproj.AssemblyReference.cache
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.Properties.Resources.resources
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.csproj.GenerateResource.cache
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.AssemblyInfoInputs.cache
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.AssemblyInfo.cs
-C:\Users\Gaston\Desktop\PrograII2025\ActividadEntregable1\obj\Debug\net8.0\ActividadEntregable1.csproj.CoreCompileInputs.cache
